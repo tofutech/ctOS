@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   height="32"
+   width="32"
+   version="1.1"
+   id="svg12"
+   sodipodi:docname="archipelago.svg"
+   inkscape:version="1.1 (c4e8f9ed74, 2021-05-24)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs16">
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1029"
+       x="-0.075"
+       y="-0.075"
+       width="1.15"
+       height="1.15">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.875"
+         id="feGaussianBlur1031" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="namedview14"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="25.71875"
+     inkscape:cx="15.591738"
+     inkscape:cy="16"
+     inkscape:window-width="1920"
+     inkscape:window-height="1000"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg12" />
+  <circle
+     cx="16"
+     cy="16"
+     r="14"
+     style="opacity:0.5;filter:url(#filter1029)"
+     id="circle2" />
+  <circle
+     cx="16"
+     cy="16"
+     r="14"
+     style="fill:#ffffff"
+     id="circle4" />
+  <path
+     style="fill:#000000"
+     d="m12.964844 7a1.0001 1.0001 0 0 0 -0.884766 0.6054688l-5.9999999 14a1.0001 1.0001 0 0 0 0.9199219 1.394531h18a1.0001 1.0001 0 0 0 0.927734 -1.371094l-4-10a1.0001 1.0001 0 0 0 -1.847656 -0.023437l-2.222656 5.1875-3.9375-9.1875002a1.0001 1.0001 0 0 0 -0.955078 -0.6054688zm0.035156 3.541016l1.482422 3.458984h-1.482422l-1 1-0.636719-0.636719 1.636719-3.822265zm7.96875 4.072265l1.134766 2.835938-1.103516 0.550781-1.220703-0.611328 1.189453-2.775391zm-10.308594 1.386719h0.339844l1 1 1-1h2.339844l2.142578 5h-8.9648439l2.1425779-5zm8.41211 3.035156l1.927734 0.964844 1.769531-0.884766 0.753907 1.884766h-3.802735l-0.652344-1.955078 0.003907-0.009766z"
+     id="path10" />
+</svg>

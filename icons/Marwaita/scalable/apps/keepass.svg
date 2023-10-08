@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="32"
+   height="32"
+   version="1"
+   id="svg14"
+   sodipodi:docname="keepass.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs18">
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1377"
+       x="-0.075"
+       y="-0.075"
+       width="1.15"
+       height="1.15">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.875"
+         id="feGaussianBlur1379" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="namedview16"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="13.546875"
+     inkscape:cx="11.441753"
+     inkscape:cy="18.823529"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg14" />
+  <rect
+     fill="#587de6"
+     width="28"
+     height="28"
+     x="2"
+     y="2"
+     rx="14"
+     ry="14"
+     id="rect2-3"
+     style="fill:#000000;filter:url(#filter1377);opacity:0.5" />
+  <rect
+     fill="#587de6"
+     width="28"
+     height="28"
+     x="2"
+     y="2"
+     rx="14"
+     ry="14"
+     id="rect2" />
+  <path
+     opacity="0.5"
+     d="m 16.0003,8 c -2.80008,0 -5.142814,1.336393 -5.000126,4.666804 v 2.333459 h -0.833362 c -0.6463521,0 -1.1667003,0.466874 -1.1667003,1.100041 V 22.8577 c 0,0.633167 0.5203482,1.1429 1.1667003,1.1429 h 11.667 c 0.646351,0 1.1667,-0.509733 1.1667,-1.1429 v -6.757396 c 0,-0.633167 -0.511073,-1.100041 -1.1667,-1.100041 H 21.00045 v -2.333459 c 0,-3.3258394 -2.205063,-4.6630324 -5.005143,-4.6630324 z m 0,2.000075 c 1.40004,0 3.000052,0.480761 3.000052,2.666729 v 2.333459 h -6.000221 v -2.333459 c 0,-2.164424 1.600012,-2.666729 3.000052,-2.666729 z"
+     id="path1438"
+     style="fill:#000000;fill-opacity:1;stroke-width:1.15474" />
+</svg>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="32"
+   height="32"
+   version="1.1"
+   id="svg12"
+   sodipodi:docname="bulky.svg"
+   inkscape:version="1.1 (c4e8f9ed74, 2021-05-24)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs16">
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter993"
+       x="-0.075"
+       y="-0.075"
+       width="1.15"
+       height="1.15">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.875"
+         id="feGaussianBlur995" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="namedview14"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="25.71875"
+     inkscape:cx="15.591738"
+     inkscape:cy="16"
+     inkscape:window-width="1920"
+     inkscape:window-height="1000"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg12" />
+  <rect
+     style="opacity:0.5;fill:#000000;fill-opacity:1;filter:url(#filter993)"
+     width="28"
+     height="28"
+     x="2"
+     y="2"
+     rx="4.8691511"
+     ry="4.8691511"
+     id="rect2" />
+  <rect
+     style="fill:#505d6e"
+     width="28"
+     height="28"
+     x="2"
+     y="2"
+     rx="5.0481801"
+     ry="5.0481801"
+     id="rect4" />
+  <path
+     style="fill:#ffffff"
+     d="M 16 8 L 16 9 L 19 9 L 19 22 L 16 22 L 16 23 L 23 23 L 23 22 L 20 22 L 20 9 L 23 9 L 23 8 L 16 8 z M 7.4277344 11 C 6.6363058 11 6 11.595317 6 12.333984 L 6 18.666016 C 6 19.404683 6.6363058 20 7.4277344 20 L 18 20 L 18 19 L 7 19 L 7 12 L 18 12 L 18 11 L 7.4277344 11 z M 21 11 L 21 12 L 25 12 L 25 19 L 21 19 L 21 20 L 24.572266 20 C 25.363694 20 26 19.404683 26 18.666016 L 26 12.333984 C 26 11.595317 25.363694 11 24.572266 11 L 21 11 z M 9 14 L 9 17 L 17 17 L 17 14 L 9 14 z"
+     id="path8" />
+</svg>

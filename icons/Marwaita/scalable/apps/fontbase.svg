@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="32"
+   height="32"
+   version="1"
+   id="svg12"
+   sodipodi:docname="fontbase.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs16">
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1047"
+       x="-0.075"
+       y="-0.075"
+       width="1.15"
+       height="1.15">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.875"
+         id="feGaussianBlur1049" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="namedview14"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="13.609375"
+     inkscape:cx="10.580941"
+     inkscape:cy="4.7761194"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg12" />
+  <circle
+     style="opacity:0.5;fill:#000000;filter:url(#filter1047)"
+     cx="16"
+     cy="16"
+     r="14"
+     id="circle2" />
+  <circle
+     style="fill:#b4a4ff;fill-opacity:1"
+     cx="16"
+     cy="16"
+     r="14"
+     id="circle4" />
+  <path
+     style="fill:#000000"
+     d="M 25.232116,16.636363 23.398955,14.802371 19.700471,11.197628 18.478363,9.9960471 c -1.350752,-1.3280632 -3.569842,-1.3280632 -4.952753,0 l -1.222107,1.2015809 -3.6984842,3.604743 -1.8331614,1.802372 c -1.0291431,1.011859 -1.0291431,2.624505 0,3.636363 v 0 c 1.0291436,1.011859 2.6693407,1.011859 3.6984846,0 l 1.833161,-1.802371 1.833161,1.802371 c 1.029143,1.011859 2.66934,1.011859 3.698484,0 1.029144,-1.011858 1.029144,-2.624504 0,-3.636363 l 1.833162,1.802372 1.833162,1.802372 c 1.029143,1.011857 2.66934,1.011857 3.698484,0 v 0 c 1.061303,-0.948618 1.061303,-2.592885 0.03216,-3.573124 z"
+     id="path8" />
+</svg>

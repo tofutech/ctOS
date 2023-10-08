@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="32"
+   height="32"
+   version="1"
+   id="svg12"
+   sodipodi:docname="nuvolaplayer3_bandcamp.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs16">
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter961"
+       x="-0.059535451"
+       y="-0.10131762"
+       width="1.1190709"
+       height="1.2026352">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.69458025"
+         id="feGaussianBlur963" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="namedview14"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="9.2918251"
+     inkscape:cx="8.0716113"
+     inkscape:cy="7.9639898"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg12" />
+  <path
+     id="path26-3"
+     style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.00898418;filter:url(#filter961);opacity:0.5"
+     d="M 21.08668,24.226568 H 2 L 10.91318,7.773432 H 30 l -8.91332,16.453136" />
+  <path
+     id="path26"
+     style="fill:#6399a8;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.00898418"
+     d="M 21.08668,24.226568 H 2 L 10.91318,7.773432 H 30 l -8.91332,16.453136" />
+</svg>

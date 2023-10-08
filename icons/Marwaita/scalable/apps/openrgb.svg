@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="32"
+   height="32"
+   version="1"
+   id="svg28"
+   sodipodi:docname="openrgb.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs32">
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1175"
+       x="-0.083522727"
+       y="-0.068055556"
+       width="1.1670455"
+       height="1.1361111">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.765625"
+         id="feGaussianBlur1177" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="namedview30"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="13.140625"
+     inkscape:cx="13.621879"
+     inkscape:cy="14.839477"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg28" />
+  <path
+     id="path4-3"
+     style="fill:#000000;filter:url(#filter1175);opacity:0.5"
+     d="M 16,3 C 13.184854,3 10.37054,4.074773 8.222656,6.222656 6.074773,8.37054 5,11.184854 5,14 c 0,2.815146 1.074773,5.62946 3.222656,7.777344 1.111221,1.11122 2.401542,1.934164 3.777344,2.470703 v 3.351562 C 12,28.375209 12.595502,29 13.333984,29 H 14 v 0.333984 C 14,29.703502 14.298451,30 14.667969,30 h 2.666015 C 17.703502,30 18,29.703502 18,29.333984 V 29 h 0.667969 C 19.406451,29 20,28.375209 20,27.599609 v -3.351562 c 1.376157,-0.53653 2.665869,-1.359229 3.777344,-2.470703 C 25.925227,19.62946 27,16.815146 27,14 27,11.184854 25.925227,8.37054 23.777344,6.222656 21.62946,4.074773 18.815146,3 16,3 Z m 0,7 A 4,4 0 0 1 18.826172,11.173828 4,4 0 0 1 20,14 4,4 0 0 1 18.826172,16.826172 4,4 0 0 1 17.623047,17.650391 L 20,23 h -0.05469 c -0.163123,-0.57948 -0.671319,-1 -1.277343,-1 h -5.333985 c -0.606003,0 -1.114202,0.420551 -1.277343,1 H 12 l 2.376953,-5.347656 A 4,4 0 0 1 13.173828,16.826172 4,4 0 0 1 12,14 4,4 0 0 1 13.173828,11.173828 4,4 0 0 1 16,10 Z" />
+  <path
+     style="fill:#ffc107"
+     d="M 16 3 C 13.184854 3 10.37054 4.0747728 8.2226562 6.2226562 L 13.173828 11.173828 A 4 4 0 0 1 16 10 L 16 3 z"
+     id="path4" />
+  <path
+     style="fill:#53dd22"
+     d="M 16 3 L 16 10 A 4 4 0 0 1 18.826172 11.173828 L 23.777344 6.2226562 C 21.62946 4.0747729 18.815146 3 16 3 z"
+     id="path6" />
+  <path
+     style="fill:#ab47bc"
+     d="M 13.173828 16.826172 L 8.2226562 21.777344 C 10.37054 23.925227 13.184854 25 16 25 L 16 23 L 12 23 L 14.376953 17.652344 A 4 4 0 0 1 13.173828 16.826172 z"
+     id="path8" />
+  <path
+     style="fill:#3f51b5"
+     d="M 18.826172 16.826172 A 4 4 0 0 1 17.623047 17.650391 L 20 23 L 16 23 L 16 25 C 18.815146 25 21.62946 23.925227 23.777344 21.777344 L 18.826172 16.826172 z"
+     id="path10" />
+  <path
+     style="fill:#42fffd"
+     d="M 23.777344 6.2226562 L 18.826172 11.173828 A 4 4 0 0 1 20 14 L 27 14 C 27 11.184854 25.925227 8.37054 23.777344 6.2226562 z"
+     id="path12" />
+  <path
+     style="fill:#039af4"
+     d="M 20 14 A 4 4 0 0 1 18.826172 16.826172 L 23.777344 21.777344 C 25.925227 19.62946 27 16.815146 27 14 L 20 14 z"
+     id="path14" />
+  <path
+     style="fill:#ff8e13"
+     d="M 8.2226562 6.2226562 C 6.0747728 8.37054 5 11.184854 5 14 L 12 14 A 4 4 0 0 1 13.173828 11.173828 L 8.2226562 6.2226562 z"
+     id="path16" />
+  <path
+     style="fill:#fd3b2d"
+     d="M 5 14 C 5 16.815146 6.0747728 19.62946 8.2226562 21.777344 L 13.173828 16.826172 A 4 4 0 0 1 12 14 L 5 14 z"
+     id="path18" />
+  <rect
+     style="fill:#4f4f4f"
+     width="8"
+     height="7"
+     x="12"
+     y="22"
+     rx="1.333"
+     ry="1.4"
+     id="rect24" />
+  <rect
+     style="fill:#4f4f4f"
+     width="4"
+     height="4"
+     x="14"
+     y="26"
+     rx=".667"
+     ry=".667"
+     id="rect26" />
+</svg>

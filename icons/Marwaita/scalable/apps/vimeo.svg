@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="32"
+   height="32"
+   version="1.1"
+   id="svg12"
+   sodipodi:docname="vimeo.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs16">
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1011"
+       x="-0.075"
+       y="-0.075"
+       width="1.15"
+       height="1.15">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.875"
+         id="feGaussianBlur1013" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="namedview14"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="13.140625"
+     inkscape:cx="11.719382"
+     inkscape:cy="11.643282"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg12" />
+  <rect
+     x="2"
+     y="2"
+     width="28"
+     height="28"
+     rx="3"
+     ry="3"
+     style="opacity:0.5;fill:#000000;filter:url(#filter1011)"
+     id="rect2" />
+  <rect
+     x="2"
+     y="2"
+     width="28"
+     height="28"
+     rx="3"
+     ry="3"
+     style="fill:#1ab7ea"
+     id="rect4" />
+  <path
+     d="m7 13-2-2s5-4 7-4 4 11 4 11 4-2 4-5c0-0.471405 0-1-1-1h-2s2-5 6-5c3 0 3 4 3 4s-6 14-12 14c-2 0-3-8.391335-5.0169074-12.442057-0.1485729-0.298391-0.3719619-0.557943-0.9830926-0.557943-0.6111307 0.64248-1 1-1 1z"
+     style="fill:#ffffff"
+     id="path8" />
+</svg>

@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="32"
+   height="32"
+   version="1"
+   id="svg52"
+   sodipodi:docname="org.filmulator.Filmulator.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs56">
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1526"
+       x="-0.07112069"
+       y="-0.079326923"
+       width="1.1422414"
+       height="1.1586538">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.859375"
+         id="feGaussianBlur1528" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="namedview54"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="13.546875"
+     inkscape:cx="17.863898"
+     inkscape:cy="7.5294118"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg52" />
+  <rect
+     style="opacity:0.5;fill:#000000;fill-opacity:1;filter:url(#filter1526)"
+     width="29"
+     height="26"
+     x="1.5000002"
+     y="2.9999998"
+     rx="1.45"
+     ry="1.444"
+     id="rect2" />
+  <rect
+     style="fill:#ff670b"
+     width="29"
+     height="26"
+     x="2"
+     y="3"
+     rx="1.45"
+     ry="1.444"
+     id="rect4" />
+  <rect
+     style="fill:#5e473a"
+     width="29"
+     height="16"
+     x="2"
+     y="8"
+     id="rect6" />
+  <path
+     style="fill:#ffffff"
+     d="M 2,5 V 8 H 4 V 5 Z"
+     id="path8" />
+  <path
+     style="fill:#ffffff"
+     d="M 5,22 H 4 V 10 h 6 v 1 H 5 v 4 h 4 v 1 H 5 Z"
+     id="path12" />
+  <path
+     style="fill:#ffffff"
+     d="m 12.504854,10 q 0.194175,0 0.339806,0.125 Q 13,10.241071 13,10.5 13,10.758928 12.84466,10.883928 12.699029,11 12.504854,11 12.291262,11 12.145631,10.883928 12,10.758928 12,10.5 12,10.241071 12.145631,10.125 12.291262,10 12.504854,10 Z"
+     id="path14" />
+  <path
+     style="fill:#ffffff"
+     d="M 13,12.999999 V 22 h -1 v -9.000001 z"
+     id="path16" />
+  <path
+     style="fill:#ffffff"
+     d="M 16,22 H 15 V 10 h 1 z"
+     id="path18" />
+  <path
+     style="fill:#ffffff"
+     d="m 26.410923,14 c 0.867794,0 1.516255,0.229548 1.945384,0.688645 C 28.785436,15.147742 29,15.880343 29,16.886448 V 22 h -1.044 v -5.054945 c 0,-1.240537 -0.720196,-1.860805 -1.759641,-1.860805 -0.743823,0 -1.27785,0.21978 -1.60208,0.65934 C 24.279584,16.183151 24.022,16.822955 24.022,17.663004 V 22 h -1.044 v -5.054945 c 0,-1.240537 -0.624728,-1.860805 -1.673709,-1.860805 -0.772431,0 -1.506952,0.2442 -1.802575,0.7326 -0.295621,0.488401 -0.443432,1.191697 -0.443432,2.10989 V 22 H 18 v -7.853479 h 1.015604 l 0.185956,1.069597 h 0.07153 c 0.238405,-0.410257 0.557867,-0.713065 0.958387,-0.908425 C 20.641534,14.102564 21.075432,14 21.533169,14 c 1.20156,0 1.983528,0.439561 2.345903,1.318682 h 0.07153 C 24.208079,14.869353 24.55615,14.537241 24.994815,14.322345 25.43348,14.107448 25.905522,14 26.41094,14 Z"
+     id="path20" />
+  <path
+     style="fill:#ffffff"
+     d="M 7,5 V 8 H 9 V 5 Z"
+     id="path22" />
+  <path
+     style="fill:#ffffff"
+     d="m 12,5 v 3 h 2 V 5 Z"
+     id="path24" />
+  <path
+     style="fill:#ffffff"
+     d="m 17,5 v 3 h 2 V 5 Z"
+     id="path26" />
+  <path
+     style="fill:#ffffff"
+     d="m 22,5 v 3 h 2 V 5 Z"
+     id="path28" />
+  <path
+     style="fill:#ffffff"
+     d="m 27,5 v 3 h 2 V 5 Z"
+     id="path30" />
+  <path
+     style="fill:#ffffff"
+     d="m 2,24 v 3 h 2 v -3 z"
+     id="path32" />
+  <path
+     style="fill:#ffffff"
+     d="m 7,24 v 3 h 2 v -3 z"
+     id="path34" />
+  <path
+     style="fill:#ffffff"
+     d="m 12,24 v 3 h 2 v -3 z"
+     id="path36" />
+  <path
+     style="fill:#ffffff"
+     d="m 17,24 v 3 h 2 v -3 z"
+     id="path38" />
+  <path
+     style="fill:#ffffff"
+     d="m 22,24 v 3 h 2 v -3 z"
+     id="path40" />
+  <path
+     style="fill:#ffffff"
+     d="m 27,24 v 3 h 2 v -3 z"
+     id="path42" />
+</svg>

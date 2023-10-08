@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="32"
+   height="32"
+   version="1"
+   id="svg12"
+   sodipodi:docname="appimagekit-gifcurry.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs16">
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1029"
+       x="-0.075"
+       y="-0.075"
+       width="1.15"
+       height="1.15">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.875"
+         id="feGaussianBlur1031" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="namedview14"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="9.6232814"
+     inkscape:cx="21.302505"
+     inkscape:cy="6.5466235"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg12" />
+  <circle
+     style="opacity:0.5;fill:#000000;fill-opacity:1;filter:url(#filter1029)"
+     cx="16"
+     cy="16"
+     r="14"
+     id="circle2" />
+  <circle
+     style="fill:#623bb2"
+     cx="16"
+     cy="16"
+     r="14"
+     id="circle4" />
+  <path
+     style="fill:#ffffff"
+     d="M 13.694922,2.944727 9.8736329,17.635157 C 8.7728423,11.532945 7.8240091,8.2912553 6.5308592,5.7064457 A 14,14 0 0 0 3.6748047,9.3691412 c 0.9128993,2.3446078 1.791898,5.4979428 2.9708986,10.4740228 1.2690867,5.41681 3.3242174,7.372056 8.0226557,8.298828 l 3.366016,0.801172 3.819922,-14.691797 c 1.135455,6.294394 2.111404,9.545659 3.468554,12.170703 a 14,14 0 0 0 2.864258,-3.550586 C 27.225332,20.496744 26.318571,17.262806 25.082226,12.044726 23.813147,6.6279104 21.758014,4.6726708 17.05957,3.7458988 Z m 3.21289,3.9101563 c 2.382082,0.6359339 3.290605,1.7958689 4.025,4.1685537 h -1.614648 l -4.49668,14.009571 c -2.382082,-0.635936 -3.290598,-1.79587 -4.025,-4.168555 h 1.614649 z"
+     id="path8" />
+</svg>

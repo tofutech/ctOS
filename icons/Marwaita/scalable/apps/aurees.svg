@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="32"
+   height="32"
+   version="1.1"
+   id="svg26"
+   sodipodi:docname="aurees.svg"
+   inkscape:version="1.1 (c4e8f9ed74, 2021-05-24)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs30">
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1563"
+       x="-0.075"
+       y="-0.075"
+       width="1.15"
+       height="1.15">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.875"
+         id="feGaussianBlur1565" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="namedview28"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="12.859375"
+     inkscape:cx="8.4763062"
+     inkscape:cy="10.692588"
+     inkscape:window-width="1920"
+     inkscape:window-height="1000"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg26" />
+  <circle
+     style="fill:#000000;stroke-width:1.16667;filter:url(#filter1563);opacity:0.5"
+     cx="16"
+     cy="16"
+     r="14"
+     id="circle6-3" />
+  <circle
+     style="fill:#ffffff;stroke-width:1.16667"
+     cx="16"
+     cy="16"
+     r="14"
+     id="circle6" />
+  <path
+     style="fill:#6ecc6e"
+     d="M 17,2.0371094 V 7.0605469 A 9,9 0 0 1 25,16 9,9 0 0 1 24.169922,19.751953 l 4.345703,2.509766 A 14,14 0 0 0 30,16 14,14 0 0 0 17,2.0371094 Z"
+     id="path10" />
+  <path
+     style="fill:#ff6065"
+     d="M 15,2.0507812 A 14,14 0 0 0 2,16 14,14 0 0 0 3.4941406,22.257812 L 7.8320312,19.751953 A 9,9 0 0 1 7,16 9,9 0 0 1 15,7.0664062 Z"
+     id="path14" />
+  <path
+     style="fill:#cc74cc"
+     d="M 23.136719,21.464844 A 9,9 0 0 1 16,25 9,9 0 0 1 8.859375,21.46875 L 4.5058594,23.982422 A 14,14 0 0 0 16,30 14,14 0 0 0 27.486328,23.976562 Z"
+     id="path16" />
+  <path
+     style="fill:none;stroke:#3f3f3f;stroke-width:3;stroke-linecap:round;stroke-linejoin:round"
+     d="m 10.5,17.5 4.2,3 5.8,-9"
+     id="path20" />
+</svg>

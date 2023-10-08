@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="32"
+   height="32"
+   version="1.1"
+   id="svg14"
+   sodipodi:docname="appimagekit-leonflix.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs18">
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter5628"
+       x="-0.075"
+       y="-0.075"
+       width="1.15"
+       height="1.15">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.90625"
+         id="feGaussianBlur5630" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="namedview16"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="19.246563"
+     inkscape:cx="16.054815"
+     inkscape:cy="12.989332"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg14" />
+  <path
+     style="opacity:0.5;fill:#000000;filter:url(#filter5628)"
+     d="M 16.5,1.5 A 14.5,14.5 0 0 0 2,16 14.5,14.5 0 0 0 16.5,30.5 14.5,14.5 0 0 0 31,16 14.5,14.5 0 0 0 16.5,1.5 Z"
+     id="path2" />
+  <path
+     style="fill:#000000;fill-opacity:1"
+     d="M 16.5,1 A 14.5,14.5 0 0 0 2,15.5 14.5,14.5 0 0 0 16.5,30 14.5,14.5 0 0 0 31,15.5 14.5,14.5 0 0 0 16.5,1 Z"
+     id="path4" />
+  <path
+     style="fill:#3be471"
+     d="M 16.5,4 C 10.148725,4 5,9.1487254 5,15.5 5,21.851275 10.148725,27 16.5,27 22.851275,27 28,21.851275 28,15.5 28,9.1487254 22.851275,4 16.5,4 Z m 5.494141,5.0003045 H 24.03125 V 11 h -0.841797 c -0.376725,0 -0.638402,0.137969 -0.787109,0.275931 C 22.253637,11.408964 22,11.642056 22,11.977102 V 13 h 2.03125 v 2 H 22 v 6 H 19 V 15 H 17.5 V 13 H 19 v -1.353212 c 0,-0.901672 0.138928,-1.567429 0.644531,-1.9960925 0.505603,-0.4335898 1.288834,-0.650391 2.34961,-0.650391 z M 9,10.9375 h 3 V 19 h 4 v 2 H 9 Z"
+     id="path8" />
+</svg>

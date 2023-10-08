@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="32"
+   height="32"
+   version="1.1"
+   id="svg12"
+   sodipodi:docname="sharik.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs16">
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1700"
+       x="-0.075"
+       y="-0.075"
+       width="1.15"
+       height="1.15">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.875"
+         id="feGaussianBlur1702" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="namedview14"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="13.609375"
+     inkscape:cx="9.2583238"
+     inkscape:cy="12.491389"
+     inkscape:window-width="1920"
+     inkscape:window-height="1018"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg12" />
+  <rect
+     style="fill:#000000;stroke-width:2.13557;filter:url(#filter1700);opacity:0.5"
+     id="rect1255-3"
+     width="28"
+     height="28"
+     x="2"
+     y="2"
+     rx="2.5460453"
+     ry="2.5460453" />
+  <rect
+     style="opacity:1;fill:#ffffff;stroke-width:2.13557"
+     id="rect1255"
+     width="28"
+     height="28"
+     x="2"
+     y="2"
+     rx="2.5460453"
+     ry="2.5460453" />
+  <path
+     fill="#673ab7"
+     d="M 7.465469,21.192413 C 17.6725,17.801822 17.801838,17.672485 21.192428,7.4654644 17.339229,5.1101962 12.244869,5.5933603 8.9191303,8.9191257 5.5933634,12.244909 5.1102009,17.339268 7.465469,21.192413 Z m 5.562173,4.349487 c 4.707388,-7.71353 4.80069,-7.806884 12.514219,-12.514274 1.076169,3.437213 0.25659,7.335664 -2.460981,10.053238 -2.717573,2.717573 -6.616025,3.53715 -10.053238,2.461036 z"
+     id="path8"
+     style="stroke-width:0.909091" />
+</svg>

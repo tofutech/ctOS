@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 16 16"
+   version="1.1"
+   id="svg14"
+   sodipodi:docname="user-home-symbolic.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs18" />
+  <sodipodi:namedview
+     id="namedview16"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="51.8125"
+     inkscape:cx="8"
+     inkscape:cy="8"
+     inkscape:window-width="1920"
+     inkscape:window-height="988"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg14" />
+  <g
+     fill="gray"
+     id="g12">
+    <path
+       d="M14 5V3h-2.002z"
+       overflow="visible"
+       id="path2" />
+    <g
+       font-weight="400"
+       id="g10">
+      <path
+         d="M2 7v8h9v-1H3V6.333zm11.002-1L13 15h1V7z"
+         font-family="Ubuntu"
+         font-size="15"
+         letter-spacing="0"
+         text-anchor="middle"
+         word-spacing="0"
+         id="path4" />
+      <path
+         d="M8 8.986a8.47 8.47 0 0 1 .607-.122 5.24 5.24 0 0 1 .872-.064c.295 0 .54.043.735.129.195.08.35.197.465.35.119.147.202.326.25.535.047.21.071.44.071.693V14.2H8z"
+         font-family="Ubuntu"
+         letter-spacing="0"
+         text-anchor="end"
+         word-spacing="0"
+         id="path6" />
+      <path
+         d="M8 .293L.146 8.146l.708.708L8 1.707l7.146 7.147.708-.708z"
+         fill-rule="evenodd"
+         font-family="sans-serif"
+         overflow="visible"
+         style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;shape-padding:0;text-decoration-color:#000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none"
+         white-space="normal"
+         id="path8" />
+    </g>
+  </g>
+</svg>

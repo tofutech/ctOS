@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="32"
+   height="32"
+   version="1.1"
+   id="svg12"
+   sodipodi:docname="opencomic.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs16">
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1113"
+       x="-0.075"
+       y="-0.075"
+       width="1.15"
+       height="1.15">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.875"
+         id="feGaussianBlur1115" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="namedview14"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="9.2918251"
+     inkscape:cx="11.407877"
+     inkscape:cy="3.8743734"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg12" />
+  <circle
+     style="fill:#000000;filter:url(#filter1113);opacity:0.5"
+     cx="16"
+     cy="16"
+     r="14"
+     id="circle4-3" />
+  <circle
+     style="fill:#ffffff;fill-opacity:1"
+     cx="16"
+     cy="16"
+     r="14"
+     id="circle4" />
+  <path
+     id="path1202"
+     style="fill:#cd3f34;fill-opacity:1;stroke-width:0.857143"
+     d="M 16 4 A 12 12 0 0 0 4 16 A 12 12 0 0 0 16 28 A 12 12 0 0 0 28 16 A 12 12 0 0 0 16 4 z M 21.195312 7 L 22.861328 13.212891 L 16.648438 14.876953 L 14.984375 8.6640625 L 21.195312 7 z M 13.0625 9.1796875 L 14.726562 15.392578 L 12.65625 15.947266 L 10.992188 9.734375 L 13.0625 9.1796875 z M 9.0703125 10.248047 L 10.736328 16.460938 L 8.6640625 17.015625 L 7 10.804688 L 9.0703125 10.248047 z M 23.375 15.132812 L 23.929688 17.205078 L 13.726562 19.9375 L 13.171875 17.867188 L 23.375 15.132812 z M 11.25 18.382812 L 12.875 24.445312 L 10.804688 25 L 9.1796875 18.9375 L 11.25 18.382812 z M 24.445312 19.125 L 25 21.195312 L 14.794922 23.929688 L 14.240234 21.859375 L 24.445312 19.125 z " />
+</svg>

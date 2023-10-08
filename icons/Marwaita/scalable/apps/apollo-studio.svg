@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="32"
+   height="32"
+   version="1.1"
+   id="svg20"
+   sodipodi:docname="apollo-studio.svg"
+   inkscape:version="1.1 (c4e8f9ed74, 2021-05-24)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs24">
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1001"
+       x="-0.075"
+       y="-0.075"
+       width="1.15"
+       height="1.15">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.875"
+         id="feGaussianBlur1003" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="namedview22"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="25.71875"
+     inkscape:cx="15.591738"
+     inkscape:cy="16"
+     inkscape:window-width="1920"
+     inkscape:window-height="1000"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg20" />
+  <rect
+     style="opacity:0.5;filter:url(#filter1001)"
+     width="28"
+     height="28"
+     x="2"
+     y="2"
+     rx="2.0999999"
+     ry="2.0999999"
+     id="rect2" />
+  <rect
+     style="fill:#262626;fill-opacity:1"
+     width="28"
+     height="28"
+     x="2"
+     y="2"
+     rx="2.1"
+     ry="2.1"
+     id="rect4" />
+  <path
+     style="fill:#ffffff"
+     d="m 19.983623,21.000001 1.529347,3 H 5.0448875 l 1.5293476,-3 z"
+     id="path8" />
+  <path
+     style="fill:#ffffff"
+     d="M 23.500281,25 16.799719,13.694 18.635546,10.712286 26.867521,25 Z"
+     id="path10" />
+  <circle
+     style="fill:#ffffff"
+     cx="16.45"
+     cy="18.3"
+     r="2"
+     id="circle12" />
+  <path
+     style="fill:#ffffff"
+     d="m 13.574056,19.800001 2.774193,-4.781056 2.774193,4.781056 z"
+     id="path14" />
+  <path
+     style="fill:#ffffff"
+     d="M 12.039653,20 H 8.649999 L 16.88404,5.7382226 18.744347,8.4626765 Z"
+     id="path16" />
+</svg>

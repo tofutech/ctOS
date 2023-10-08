@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="32"
+   height="32"
+   version="1.1"
+   id="svg14"
+   sodipodi:docname="appimagekit-listen.moe-desktop-app.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs18">
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1067"
+       x="-0.075"
+       y="-0.075"
+       width="1.15"
+       height="1.15">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.875"
+         id="feGaussianBlur1069" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="namedview16"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="19.246563"
+     inkscape:cx="14.807839"
+     inkscape:cy="25.199305"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg14" />
+  <rect
+     style="opacity:0.5;fill:#000000;fill-opacity:1;filter:url(#filter1067)"
+     width="28"
+     height="28"
+     x="2"
+     y="2"
+     rx="1.4"
+     ry="1.4"
+     id="rect2" />
+  <rect
+     style="fill:#1d1f2b;fill-opacity:1"
+     width="28"
+     height="28"
+     x="2"
+     y="2"
+     rx="1.4"
+     ry="1.4"
+     id="rect4" />
+  <path
+     style="fill:#ffffff"
+     d="M 9.3497635,9 C 9.1559945,9 9,9.1543846 9,9.3461538 v 1.3846152 6.923077 C 9,17.845615 9.1559945,18 9.3497635,18 H 10.649119 C 10.842887,18 11.000032,17.845615 11,17.653846 V 11 h 3.650236 C 14.844005,11 15,10.822692 15,10.630923 V 9.3461538 C 15,9.1543846 14.844005,9 14.650236,9 h -3.901418 z"
+     id="path8" />
+  <path
+     style="fill:#ff015b;fill-opacity:1"
+     d="M 22.650237,23 C 22.844006,23 23,22.845615 23,22.653846 V 21.269231 14.346154 C 23,14.154385 22.844006,14 22.650237,14 H 21.350881 C 21.157113,14 20.999968,14.154385 21,14.346154 V 21 H 17.349764 C 17.155995,21 17,21.177308 17,21.369077 v 1.284769 C 17,22.845615 17.155995,23 17.349764,23 h 3.901418 z"
+     id="path10" />
+</svg>

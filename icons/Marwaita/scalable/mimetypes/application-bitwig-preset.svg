@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   sodipodi:docname="application-bitwig-template.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 8.4666665 8.4666669"
+   height="32"
+   width="32"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs2">
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter33141"
+       x="-0.081250001"
+       width="1.1625"
+       y="-0.069642859"
+       height="1.1392857">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.21497395"
+         id="feGaussianBlur33143" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     inkscape:window-maximized="1"
+     inkscape:window-y="29"
+     inkscape:window-x="0"
+     inkscape:window-height="1013"
+     inkscape:window-width="1920"
+     units="px"
+     showgrid="false"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="px"
+     inkscape:cy="17.935351"
+     inkscape:cx="6.1635418"
+     inkscape:zoom="9.0045629"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     inkscape:pagecheckerboard="0"
+     inkscape:showpageshadow="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Capa 1">
+    <path
+       style="opacity:0.5;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.29353;filter:url(#filter33141)"
+       d="M 1.0583334,0.5291668 V 7.9374999 H 7.4083333 V 2.1166666 l -1.5875,-1.5874998 z"
+       id="path926-2"
+       inkscape:connector-curvature="0" />
+    <path
+       style="opacity:1;fill:#4f4f4f;fill-opacity:1;stroke:none;stroke-width:2.29353"
+       d="M 1.0583334,0.52916675 V 7.9374999 H 7.4083333 V 2.1166666 l -1.5875,-1.58749985 z"
+       id="path926"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       style="opacity:0.2;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.29353"
+       d="M 5.8208333,0.52916675 V 2.1166669 h 1.5875 z"
+       id="path926-1" />
+    <g
+       style="fill:#ff5a00"
+       id="g70"
+       transform="matrix(0.26458333,0,0,0.26458333,0.13229173,0.52916674)">
+      <circle
+         style="fill:#ff5a00"
+         cx="11"
+         cy="17"
+         r="1"
+         id="circle42" />
+      <circle
+         style="fill:#ff5a00"
+         cx="14"
+         cy="17"
+         r="1"
+         id="circle44" />
+      <circle
+         style="fill:#ff5a00"
+         cx="17"
+         cy="17"
+         r="1"
+         id="circle46" />
+      <circle
+         style="fill:#ff5a00"
+         cx="20"
+         cy="17"
+         r="1"
+         id="circle48" />
+      <circle
+         style="fill:#ff5a00"
+         cx="11"
+         cy="20"
+         r="1"
+         id="circle50" />
+      <circle
+         style="fill:#ff5a00"
+         cx="14"
+         cy="20"
+         r="1"
+         id="circle52" />
+      <circle
+         style="fill:#ff5a00"
+         cx="17"
+         cy="20"
+         r="1"
+         id="circle54" />
+      <circle
+         style="fill:#ff5a00"
+         cx="20"
+         cy="20"
+         r="1"
+         id="circle56" />
+      <circle
+         style="fill:#ff5a00"
+         cx="8"
+         cy="20"
+         r="1"
+         id="circle58" />
+      <circle
+         style="fill:#ff5a00"
+         cx="23"
+         cy="20"
+         r="1"
+         id="circle60" />
+      <circle
+         style="fill:#ff5a00"
+         cx="11"
+         cy="23"
+         r="1"
+         id="circle62" />
+      <circle
+         style="fill:#ff5a00"
+         cx="20"
+         cy="23"
+         r="1"
+         id="circle64" />
+      <circle
+         style="fill:#ff5a00"
+         cx="8"
+         cy="23"
+         r="1"
+         id="circle66" />
+      <circle
+         style="fill:#ff5a00"
+         cx="23"
+         cy="23"
+         r="1"
+         id="circle68" />
+    </g>
+  </g>
+</svg>

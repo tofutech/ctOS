@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="32"
+   height="32"
+   version="1"
+   id="svg12"
+   sodipodi:docname="airtame-application.svg"
+   inkscape:version="1.1 (c4e8f9ed74, 2021-05-24)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs16">
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter913"
+       x="-0.075"
+       y="-0.075"
+       width="1.15"
+       height="1.15">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.875"
+         id="feGaussianBlur915" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="namedview14"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="12.859375"
+     inkscape:cx="20.646416"
+     inkscape:cy="7.6986634"
+     inkscape:window-width="1920"
+     inkscape:window-height="997"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg12" />
+  <rect
+     style="opacity:0.5;filter:url(#filter913)"
+     width="28"
+     height="28"
+     x="2"
+     y="2"
+     rx="1.4"
+     ry="1.4"
+     id="rect2" />
+  <rect
+     style="fill:#005aff;fill-opacity:1"
+     width="28"
+     height="28"
+     x="2"
+     y="2"
+     rx="1.4"
+     ry="1.4"
+     id="rect4" />
+  <path
+     style="fill:#ffffff"
+     d="M 13.082031 11.009766 C 11.890551 10.952035 10.701691 11.16082 9.6621094 11.642578 C 8.847846 12.019921 8 12.63209 8 12.84375 C 8 13.089363 9.0827581 14.298828 9.3027344 14.298828 C 9.4060229 14.298828 9.8549521 14.098461 10.300781 13.853516 C 11.35373 13.275 12.01901 13.119236 13.136719 13.191406 C 13.915844 13.241715 14.261381 13.354955 15.519531 13.970703 C 16.342583 14.37351 17.37763 14.770195 17.865234 14.871094 C 19.547943 15.219294 21.714062 14.838859 23.09375 13.953125 C 24.203803 13.24049 24.221386 13.178489 23.537109 12.351562 C 23.215529 11.962945 22.852195 11.644531 22.728516 11.644531 C 22.604835 11.644531 22.287257 11.794918 22.023438 11.978516 C 21.289294 12.489423 20.299406 12.78125 19.306641 12.78125 C 18.271504 12.78125 17.654465 12.603666 16.519531 11.974609 C 15.467508 11.391506 14.273512 11.067496 13.082031 11.009766 z M 12.730469 17 C 11.657371 17 11.158399 17.061718 10.521484 17.275391 C 9.5131077 17.613684 8.1154859 18.428135 8.0058594 18.740234 C 7.9191495 18.987085 8.9427024 20.365234 9.2128906 20.365234 C 9.2942265 20.365234 9.7152689 20.162823 10.148438 19.916016 C 11.127473 19.358189 11.663797 19.212891 12.746094 19.212891 C 13.751595 19.212891 14.46636 19.425117 15.564453 20.050781 C 16.008601 20.303844 16.736826 20.618251 17.183594 20.75 C 18.316772 21.084174 20.11788 21.083361 21.300781 20.746094 C 22.297157 20.46201 23.932907 19.523604 23.998047 19.199219 C 24.055741 18.911965 22.967177 17.677734 22.65625 17.677734 C 22.515829 17.677734 22.252128 17.78494 22.070312 17.916016 C 20.994028 18.691954 19.525713 18.992774 18.226562 18.705078 C 17.839067 18.619268 17.10791 18.319883 16.603516 18.039062 C 15.12098 17.213659 14.325701 17 12.730469 17 z"
+     id="path8" />
+</svg>
