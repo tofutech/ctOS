@@ -1,0 +1,15 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=ctOS
+Comment=ctOS 2.0 GTK Theme
+Comment=Author: tofutech
+Version=v1.0
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Windows10
+MetacityTheme=Windows10
+IconTheme=ubuntu-mono-dark
+CursorTheme=DMZ-White
+ButtonLayout=:minimize,maximize,close
+
