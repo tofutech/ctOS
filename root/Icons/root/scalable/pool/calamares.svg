@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--Part of Monotone: https://github.com/sixsixfive/Monotone, released under cc-by-sa_v4-->
+
+<svg
+   viewBox="0 0 16 16"
+   version="1.1"
+   id="svg12"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs16" />
+  <g
+     fill="#f1f2f2"
+     id="g10">
+    <path
+       id="path2"
+       style="text-indent:0;text-align:start;line-height:normal;text-transform:none;block-progression:tb;marker:none;-inkscape-font-specification:Bitstream Vera Sans;fill:#f1f2f2;fill-opacity:0.99226958"
+       d="M 5 0 L 5 1 C 5 1.31 5.09025 1.552 5.28125 1.75 L 8.0019531 4.40625 L 10.71875 1.75 C 10.90875 1.552 11 1.31 11 1 L 11 0 L 10 0 C 9.743 0 9.47225 0.1295 9.28125 0.3125 L 8.0019531 1.59375 L 6.71875 0.31445312 C 6.52975 0.13045312 6.257 -3.7007434e-17 6 0 L 5 0 z M 2 3 C 1.446 3 1 3.446 1 4 L 1 15 C 1 15.554 1.446 16 2 16 L 14 16 C 14.554 16 15 15.554 15 15 L 15 4 C 15 3.446 14.554 3 14 3 L 10.871094 3 L 9.8476562 4 L 14 4 L 14 15 L 2 15 L 2 4 L 6.1542969 4 L 5.1308594 3 L 2 3 z M 8 6 A 3 3 0 0 0 5 9 L 6 9 A 2 2 0 0 1 8 7 A 2 2 0 0 1 10 9 A 2 2 0 0 1 8 11 L 8 12 A 3 3 0 0 0 11 9 A 3 3 0 0 0 8 6 z M 8 9 L 5.5 10 C 5.4773839 10 5.4566051 10.001418 5.4375 10.003906 A 1.5 1.5 0 0 0 4 11.5 A 1.5 1.5 0 0 0 5.5 13 A 1.5 1.5 0 0 0 6.9960938 11.5625 C 6.9985818 11.543395 7 11.522616 7 11.5 L 8 9 z " />
+  </g>
+</svg>

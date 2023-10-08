@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--Part of Monotone: https://github.com/sixsixfive/Monotone, released under cc-by-sa_v4-->
+
+<svg
+   viewBox="0 0 16 16"
+   version="1.1"
+   id="svg4"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs8" />
+  <path
+     id="path647"
+     d="M 3 1 C 2 1 2 2 2 3 L 0 3 L 0 4 L 15 4 L 15 3 L 13 3 C 13 2 13 1 12 1 L 3 1 z M 3 2 L 12 2 L 12 3 L 3 3 L 3 2 z "
+     style="fill:#f1f2f2;fill-opacity:0.99789" />
+  <path
+     d="M 5,5.9999998 H 6 V 14 H 5 Z"
+     id="path645"
+     style="stroke-width:0.999999;fill:#f1f2f2;fill-opacity:0.99789" />
+  <path
+     d="m 9,5.9999998 h 1 V 14 H 9 Z"
+     id="path643"
+     style="stroke-width:0.999999;fill:#f1f2f2;fill-opacity:0.99789" />
+  <path
+     d="M 7,5.9999998 H 8 V 14 H 7 Z"
+     id="path641"
+     style="stroke-width:0.999999;fill:#f1f2f2;fill-opacity:0.99789" />
+  <path
+     d="m 2,5 v 9 c 0,1 0,1 1,1 h 9 c 1,0 1,0 1,-1 V 5 h 1 v 9 c 0,2 -2,2 -2,2 H 3 C 1,16 1,14 1,14 V 5 Z"
+     id="path2"
+     style="fill:#f1f2f2;fill-opacity:0.99789" />
+  <path
+     d="M 3,5.9999998 H 4 V 14 H 3 Z"
+     id="path750"
+     style="stroke-width:0.999999;fill:#f1f2f2;fill-opacity:0.99789" />
+  <path
+     d="m 11,5.9999998 h 1 V 14 h -1 z"
+     id="path752"
+     style="stroke-width:0.999999;fill:#f1f2f2;fill-opacity:0.99789" />
+</svg>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--Part of Monotone: https://github.com/sixsixfive/Monotone, released under cc-by-sa_v4-->
+
+<svg
+   viewBox="0 0 16 16"
+   version="1.1"
+   id="svg4"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs8" />
+  <path
+     id="path647"
+     style="fill:#f1f2f2;fill-opacity:1;opacity:1"
+     d="M 3 1 C 2 1 2 2 2 3 L 0 3 L 0 4 L 15 4 L 15 3 L 13 3 C 13 2 13 1 12 1 L 3 1 z M 3 2 L 12 2 L 12 3 L 3 3 L 3 2 z " />
+  <path
+     style="fill:#f1f2f2;fill-opacity:1;stroke-width:0.999999;opacity:1"
+     d="M 5,5.9999998 H 6 C 4.7417092,8.5841088 4.5933401,11.241041 6,14 H 5 C 3.674718,11.342499 3.6586352,8.675943 5,5.9999998 Z"
+     id="path645" />
+  <path
+     style="fill:#f1f2f2;fill-opacity:1;stroke-width:0.999999;opacity:1"
+     d="m 9,5.9999998 h 1 C 11.347558,8.6832302 11.319047,11.349547 10,14 H 9 c 1.380202,-2.723639 1.285774,-5.3864075 0,-8.0000002 z"
+     id="path643" />
+  <path
+     style="stroke-width:0.999999;fill:#f1f2f2;fill-opacity:1;opacity:1"
+     d="M 7,5.9999998 H 8 V 14 H 7 Z"
+     id="path641" />
+  <path
+     style="fill:#f1f2f2;fill-opacity:1;opacity:1"
+     d="m 13,15 c 1.708621,-4.206965 0.898134,-7.6394664 0,-10 h 1 c 1.205013,3.1618758 1.456654,6.459404 0,10 -0.852273,0 -2.981617,0 -1,0 z"
+     id="path2" />
+  <path
+     style="fill:#f1f2f2;fill-opacity:1;stroke-width:0.999999;opacity:1"
+     d="M 3,5.9999998 H 4 C 2.7007286,8.6283931 2.6329592,11.293063 4,14 H 3 C 1.6131026,11.267647 1.721136,8.6060969 3,5.9999998 Z"
+     id="path750" />
+  <path
+     style="fill:#f1f2f2;fill-opacity:1;stroke-width:0.999999;opacity:1"
+     d="m 11,6 h 1 c 1.347558,2.6832304 1.319047,5.349547 0,8 h -1 c 1.380202,-2.723639 1.285774,-5.3864073 0,-8 z"
+     id="path4096" />
+  <path
+     style="fill:#f1f2f2;fill-opacity:1;opacity:1"
+     d="m 2.0003456,15 c -1.70862099,-4.206965 -0.898134,-7.6394664 0,-10 h -1 c -1.20501295,3.1618758 -1.45665395,6.459404 0,10 0.852273,0 2.981617,0 1,0 z"
+     id="path5565" />
+  <path
+     id="path5815"
+     style="opacity:1;fill:#f1f2f2;fill-opacity:1;stroke-linecap:round"
+     d="M 1 15 C 1.0019489 15.009853 1.5752737 16.015235 2 16 L 5 16 L 10 16 L 13 16 C 13.424726 16.01524 13.998051 15.009853 14 15 L 10 15 L 5 15 L 1 15 z " />
+</svg>
