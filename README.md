@@ -20,7 +20,6 @@ Built using high quality production images and stills from the game, made to be 
 # What's Included
 - GTK/WM Theme
 - Icon Theme
-- Lxdm Theme
 - Fonts
 - Wallpapers
 ------------------------------------
