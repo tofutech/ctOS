@@ -18,7 +18,7 @@ A screen-accurate recreation of ctOS 2.0 from Watch_Dogs 2, built using the XFCE
 Built using high quality production images and stills from the game, made to be as accurate as possible, while still being usable as an everyday desktop.
 
 # What's Included
-- GTK/WM Theme
+- GTK/WM Theme (User/Root "HAXXOR" mode)
 - Icon Theme
 - Fonts
 - Wallpapers
@@ -27,6 +27,11 @@ Built using high quality production images and stills from the game, made to be 
 To copy files,run ```pwn.sh```
 
 To set user theme, run ```begin.sh``` afterwards.
+
+------------------------------------------------
+# To Do
+- Cleanup install scripts
+- Fix any errors
 
 -----------------------------------
 Watch_Dogs, DEDSEC, ctOS, and all other terms are the property of Ubisoft.
