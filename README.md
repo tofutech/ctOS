@@ -28,6 +28,11 @@ To copy files,run ```pwn.sh```
 
 To set user theme, run ```begin.sh``` afterwards.
 
+------------------------------------------------
+# To Do
+-Cleanup install scripts
+-Fix any errors
+
 -----------------------------------
 Watch_Dogs, DEDSEC, ctOS, and all other terms are the property of Ubisoft.
 
