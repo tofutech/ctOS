@@ -26,7 +26,7 @@ Built using high quality production images and stills from the game, made to be 
 # How-to
 To copy files,run ```pwn.sh```
 
-To set user theme, run ```begin.sh```
+To set user theme, run ```begin.sh``` afterwards.
 
 -----------------------------------
 Watch_Dogs, DEDSEC, ctOS, and all other terms are the property of Ubisoft.
