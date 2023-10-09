@@ -23,10 +23,10 @@ Built using high quality production images and stills from the game, made to be 
 - Fonts
 - Wallpapers
 ------------------------------------
+# How-to
+To copy files,run ```pwn.sh```
 
-# Need TO DO
-- Create basic distro-agnostic installation script
-- (EVENTUALLY) create installable ISO
+To set user theme, run ```begin.sh``` afterwards.
 
 -----------------------------------
 Watch_Dogs, DEDSEC, ctOS, and all other terms are the property of Ubisoft.
