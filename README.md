@@ -36,6 +36,7 @@ To set user theme, run ```begin.sh``` afterwards.
 # To Do
 - Cleanup install scripts
 - Fix any errors
+- EVENTUALLY configure a preset ISO with everything set up
 
 -----------------------------------
 Watch_Dogs, DEDSEC, ctOS, and all other terms are the property of Ubisoft.
