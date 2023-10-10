@@ -23,6 +23,10 @@ Built using high quality production images and stills from the game, made to be 
 - Fonts
 - Wallpapers
 ------------------------------------
+# Requirements
+- ```xfce4-places-plugin```
+- ```vala-panel-appmenu-xfce```
+- ```xfce4-panel-profiles```
 # How-to
 To copy files,run ```pwn.sh```
 
