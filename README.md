@@ -11,7 +11,7 @@ a8"     ""    88     88          88    `"""""8b,        a8P"          88        
                                                                                                                                                                             
  ```
 -----------------------------------------------------------------------------------------
-
+![test image](https://github.com/tofutech/images/blob/main/1000000900.png)
 # ctOS 2.0 "San Francisco"
 A screen-accurate recreation of ctOS 2.0 from Watch_Dogs 2, built using the XFCE Desktop. 
 
@@ -36,6 +36,7 @@ To set user theme, run ```begin.sh``` afterwards.
 # To Do
 - Cleanup install scripts
 - Fix any errors
+- EVENTUALLY configure a preset ISO with everything set up
 
 -----------------------------------
 Watch_Dogs, DEDSEC, ctOS, and all other terms are the property of Ubisoft.
