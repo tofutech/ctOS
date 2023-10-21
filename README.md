@@ -27,6 +27,7 @@ Built using high quality production images and stills from the game, made to be 
 - ```xfce4-places-plugin```
 - ```vala-panel-appmenu-xfce```
 - ```xfce4-panel-profiles```
+- ```mugshot```
 # How-to
 To copy files,run ```pwn.sh```
 
